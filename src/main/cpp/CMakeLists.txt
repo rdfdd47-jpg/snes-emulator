@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Add the emulator core library
 add_library(snes-core SHARED
+    jni_bridge.cpp
     snes_emulator.cpp
     cpu.cpp
     memory.cpp
