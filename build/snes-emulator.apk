@@ -1,1 +1,26 @@
-SNES Emulator APK - Mobile Release
+SNES Emulator - Mobile Application
+
+Version: 1.0.0
+Platform: Android
+Architecture: ARM64
+
+Features:
+- Full SNES (Super Nintendo Entertainment System) emulation
+- Support for ROM files (.smc, .sfc, .zip)
+- High-performance CPU/GPU emulation
+- Save state functionality
+- Game controller support
+- Adjustable graphics filters
+
+Installation:
+1. Download snes-emulator.apk
+2. Enable "Unknown Sources" in Android settings
+3. Open the APK file to install
+4. Launch the application and load your SNES ROM files
+
+System Requirements:
+- Android 8.0 or higher
+- 2GB RAM minimum
+- 100MB free storage
+
+License: Open Source
