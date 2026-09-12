@@ -12,6 +12,7 @@ build/
 *.swp
 *.swo
 *~
+.DS_Store
 
 # Local properties
 local.properties
@@ -22,6 +23,13 @@ CMakeCache.txt
 CMakeFiles/
 
 # Generated
-.DS_Store
 *.class
 *.log
+
+# NDK
+.cxx/
+*.so
+
+# Misc
+*.jks
+*.keystore
