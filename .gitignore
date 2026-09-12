@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Local properties
+local.properties
+
+# CMake
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+
+# Generated
+.DS_Store
+*.class
+*.log
