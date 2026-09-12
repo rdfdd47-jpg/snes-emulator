@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SNESEmulator" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+    
+    <color name="primary">#1f1f1f</color>
+    <color name="primary_dark">#000000</color>
+</resources>
