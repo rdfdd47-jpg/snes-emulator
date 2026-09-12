@@ -20,6 +20,16 @@ android {
         }
     }
 
+    buildTypes {
+        release {
+            minifyEnabled false
+            debuggable false
+        }
+        debug {
+            debuggable true
+        }
+    }
+
     externalNativeBuild {
         cmake {
             path file('src/main/cpp/CMakeLists.txt')
